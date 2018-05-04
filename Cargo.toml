@@ -1,5 +1,5 @@
 [package]
-name = "wasm-dev-book-typescript"
+name = "wasm-dev-book-webpack-typescript"
 version = "0.1.0"
 authors = ["mizdra <pp.mizdra@gmail.com>"]
 
