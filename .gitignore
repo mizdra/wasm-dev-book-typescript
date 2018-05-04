@@ -59,3 +59,4 @@ Cargo.lock
 /dist
 /src/wasm_dev_book_typescript_bg.wasm
 /src/wasm_dev_book_typescript.js
+/src/wasm_dev_book_typescript.d.ts
